@@ -53,6 +53,6 @@ npm run dev
 - react-icons
 - react-markdown
 
-## 📝 License © [Eyuel](https://linkedin.com/in/eyuel-daniel)
+## 📝 License © [Shashank](https://linkedin.com/in/eyuel-daniel)
 
 > This project is released under the Apache License 2.0 license. See [LICENSE](./LICENSE) for details.
